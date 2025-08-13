@@ -5,7 +5,7 @@ Sample AI-generated prompts to use when performing secure code reviews
 ## Contents
 
 - `proactive_controls.md`
-	- Prompt based off OWASP Top 10 Proactive Controls
+	- Prompt based off OWASP Top 10 Proactive Controls - specifically tailored to Go and React
 - `ci_cd.md`
 	- Prompt based off the OWASP Top 10 CI/CD Security Risks - specifically tailored for GitHub Workflows
 
