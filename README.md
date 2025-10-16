@@ -10,6 +10,8 @@ Sample AI-generated prompts to use when performing secure code reviews
 	- Prompt based off the [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/) - specifically tailored for GitHub Workflows
 - `mobile.md`
 	- Prompt based off the [OWASP Mobile Top 10](https://owasp.org/www-project-mobile-top-10/)
+- `security-testing-plan-prompt.md`
+	- Generate focused security testing plans after running Claude's `/security-review` slash command.
 
 ## Other Resources
 
